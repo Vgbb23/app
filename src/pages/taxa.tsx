@@ -247,7 +247,7 @@ export default function TaxaPage() {
           <button
             onClick={() =>
               window.open(
-                'https://checkout.perfectpay.com.br/pay/PPU38COEU3P?upsell=true',
+                'https://go.fruitfypay.com/qyiByJcOZ1iKuA9E',
                 '_blank',
               )
             }
